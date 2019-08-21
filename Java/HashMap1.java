@@ -7,6 +7,7 @@ public class MyClass {
     capitalCities.put("Oregon", "Salem");
     capitalCities.put("California", "Sacramento");
     capitalCities.put("Alaska", "Juneau");
+    capitalCities.put("Montana", "Helena");
     System.out.println(capitalCities); 
   }
 }
